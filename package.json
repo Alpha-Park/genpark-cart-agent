@@ -1,0 +1,15 @@
+{
+  "name": "genpark-cart-agent",
+  "version": "1.0.0",
+  "description": "GenPark Cart Agent: Generates AI-driven, intent-based actionable shopping bundles (Carts) instead of static item lists. Supports dynamic constraints, real-time commerce simulation, and multi-platform execution.",
+  "main": "SKILL.md",
+  "author": "Chris P (GenPark)",
+  "license": "MIT",
+  "keywords": [
+    "genpark",
+    "cart",
+    "ecommerce",
+    "bundle",
+    "agent"
+  ]
+}
